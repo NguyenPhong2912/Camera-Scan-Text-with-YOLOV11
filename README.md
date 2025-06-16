@@ -1,6 +1,5 @@
 # Dự án Nhận dạng Chữ cái Tiếng Việt bằng YOLOv11
 ![GitHub stars](https://img.shields.io/github/stars/[ten-github-cua-ban]/[ten-repo-cua-ban]?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Dự án mã nguồn mở sử dụng mô hình **YOLOv11** để nhận dạng các chữ cái trong bảng chữ cái Tiếng Việt trong thời gian thực từ hình ảnh, video hoặc webcam.
 
@@ -155,8 +154,10 @@ Dự án này được cấp phép theo Giấy phép MIT. Xem file `LICENSE` đ�
 
 ## Liên hệ & Lời cảm ơn
 
-- **Tác giả**: [Tên của bạn] - [email@cua.ban]
-- **Project Link**: [https://github.com/[ten-github-cua-ban]/[ten-repo-cua-ban]](https://github.com/[ten-github-cua-ban]/[ten-repo-cua-ban])
+- **Tác giả**: Nguyễn Thành Phong - ntphong.1231@gmail.com
+- **Project Link**: [https://github.com/NguyenPhong2912/Camera-Scan-Text-with-YOLOV11
+](https://github.com/NguyenPhong2912/Camera-Scan-Text-with-YOLOV11
+)
 
 - **Lời cảm ơn**:
   - Cảm ơn [Ultralytics](https://ultralytics.com/) đã phát triển và duy trì một framework YOLO tuyệt vời.
