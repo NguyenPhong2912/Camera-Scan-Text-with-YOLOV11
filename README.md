@@ -1,5 +1,5 @@
 # Dự án Nhận dạng Chữ cái Tiếng Việt bằng YOLOv11
-![GitHub stars](https://img.shields.io/github/stars/https://github.com/NguyenPhong2912/Camera-Scan-Text-with-YOLOV11)
+![GitHub stars](https://img.shields.io/github/stars/NguyenPhong2912/Camera-Scan-Text-with-YOLOV11)
 
 Dự án mã nguồn mở sử dụng mô hình **YOLOv11** để nhận dạng các chữ cái trong bảng chữ cái Tiếng Việt trong thời gian thực từ hình ảnh, video hoặc webcam.
 
