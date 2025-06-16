@@ -40,8 +40,8 @@ Mục tiêu của dự án là xây dựng một mô hình có khả năng phát
 
 1.  **Clone repository về máy:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[ten-github-cua-ban]/[ten-repo-cua-ban].git
-    cd [ten-repo-cua-ban]
+    git clone https://img.shields.io/github/stars/NguyenPhong2912/Camera-Scan-Text-with-YOLOV11.git
+    cd Camera-Scan-Text-with-YOLOV11
     ```
 
 2.  **Tạo và kích hoạt môi trường ảo (khuyến khích):**
@@ -161,4 +161,4 @@ Dự án này được cấp phép theo Giấy phép MIT. Xem file `LICENSE` đ�
 
 - **Lời cảm ơn**:
   - Cảm ơn [Ultralytics](https://ultralytics.com/) đã phát triển và duy trì một framework YOLO tuyệt vời.
-  - Cảm ơn [Nguồn dữ liệu của bạn] đã cung cấp dữ liệu cho dự án.
+  - Cảm ơn [ORC] (https://drive.usercontent.google.com/download?id=1T0cmkhTgu3ahyMIwGZeby612RpVdDxOR&export=download&authuser=0) đã cung cấp dữ liệu cho dự án.
